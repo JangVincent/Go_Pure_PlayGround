@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"main/task"
+	"main/src/task"
 )
 
 func main() {
